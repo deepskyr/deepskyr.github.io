@@ -1,0 +1,3 @@
+[submodule "lib/fullcalendar"]
+	path = lib/fullcalendar
+	url = https://github.com/deepskyr/fullcalendar.git
